@@ -156,8 +156,5 @@ npm run dev
 ## Contributing
 
 We welcome contributions! If you'd like to contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
-## Contributing
-
-We welcome contributions! If you'd like to contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
 
 ---

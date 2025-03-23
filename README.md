@@ -8,13 +8,13 @@ This is a complete doctor appointment booking system built using the **MUNCHECK 
 
 ## Live Demo
 
-- **Frontend**: [Link to demo]
-- **Admin Panel (Admin Login)**: [Link to Admin Panel]
+- **Frontend**: https://private-apointee-frontend.vercel.app/
+- **Admin Panel (Admin Login)**: https://private-apointee-admin.vercel.app/admin-dashboard
   - **Email**: admin@example.com
-  - **Password**: admin123
-- **Admin Panel (Doctor Login)**: [Link to Doctor Panel]
-  - **Email**: doctor@example.com
-  - **Password**: doctor123
+  - **Password**: maazjawaid123
+- **Admin Panel (Doctor Login)**:  https://private-apointee-admin.vercel.app/admin-dashboard
+  - **Email**: Emails in asset file in  `ecom-frontend/src/assets`.
+  - **Password**: Passwords in asset file in  `ecom-frontend/src/assets`.
 
 ---
 
